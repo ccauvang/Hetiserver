@@ -59,4 +59,4 @@ console.log({
 	buffer: canvas.toBuffer(),
 	base64PNG: canvas.toDataURL(),
 	text: result.join(''),
-}, 'Hello World');
+});
